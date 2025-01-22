@@ -28,6 +28,7 @@ A RESTful Todo API built with Express.js and MongoDB. Features CRUD operations f
 - dotenv
 
 ## Project Structure 
+```
 todo-list-api/
 ├── src/
 │ ├── controllers/
@@ -40,7 +41,7 @@ todo-list-api/
 ├── .env
 ├── .gitignore
 └── package.json
-
+```
 ## API Endpoints
 
 ### Todos
