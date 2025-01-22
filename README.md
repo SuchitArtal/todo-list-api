@@ -79,11 +79,10 @@ Make sure MongoDB is running on your system
 bash
 `npm start`
 
-bash
-#Development
+6. **Development**
 `npm run dev`
 
-#Production
+7. **Production**
 `npm start`
 
 ## API Documentation
